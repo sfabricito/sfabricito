@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @sfabricito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @sfabricito
+- 🚀 Always I try to learn something new or different.
+- 👀 I’m interested, as well as programming, in Startups and Sound Design.
+- 🌱 I’m currently learning English and the technologies related to back-end development.
+- 📫 Hey! Let's talk to [Twitter](https://twitter.com/sfabricito).
+- 🚚 I would like to work in the field of logistic chains or electricity.
 
-<!---
-sfabricito/sfabricito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🏗️ Some of my personal projects
+- 🥼 [Rick and Morty Vanilla SPA](https://github.com/sfabricito/rick-and-morty)
