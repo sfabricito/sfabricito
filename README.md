@@ -5,5 +5,5 @@
 - 📫 Hey! Let's talk to [Twitter](https://twitter.com/sfabricito).
 - 🚚 I would like to work in the field of logistic chains or electricity.
 
-## 🏗️ Some of my personal projects
+## 🏗️ Some personal projects
 - 🥼 [Rick and Morty Vanilla SPA](https://github.com/sfabricito/rick-and-morty)
