@@ -1,10 +1,10 @@
-# 👋 Hi, I’m @sfabricito
+# 👋 Hi, I’m [@Sfabricito](https://twitter.com/sfabricito)
 - 🚀 Always I try to learn something new or different.
-- 👀 I’m interested, as well as programming, in Startups and Sound Design.
-- 🌱 I’m currently learning English and the technologies related to back-end development.
-- 📫 Hey! Let's talk to [Twitter](https://twitter.com/sfabricito).
-- 🚚 I would like to work in the field of logistic chains or electricity.
-- 🛸 Also, I'm on [GitLab](https://gitlab.com/sfabricito).
+- 👀 I’m interested, as well as programming, in Startups and Cryptocurrencies.
+- 🌱 Currently, I'm a university student at [TEC](https://www.tec.ac.cr/) and I'm learning the technologies related to front-end development.
+- 📫 Let's talk in [Twitter](https://twitter.com/sfabricito). I'm trying to develop my portfolio and share my experience in the process.
+- 🚚 I would like to work in the field of Logistic Chains and International Trade.
+- 🛸 Also, I'm on [GitLab](https://gitlab.com/sfabricito), but I don't have anything interesting there.
 
-## 🏗️ Some personal projects
-- 🥼 [Rick and Morty Vanilla SPA](https://github.com/sfabricito/rick-and-morty)
+## 🏗️ Portfolio projects
+- 🥼 [Rick and Morty Vanilla Single Page Application](https://github.com/sfabricito/rick-and-morty)
