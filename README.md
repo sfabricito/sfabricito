@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [@Sfabricito](https://twitter.com/sfabricito)
+# 👋 Hi, I’m @Sfabricito
 - 🚀 Always I try to learn something new or different.
 - 👀 I’m interested, as well as programming, in Startups and Cryptocurrencies.
 - 🌱 Currently, I'm learning the technologies related to front-end development.
@@ -7,5 +7,5 @@
 - 🚚 I would like to work in the field of Logistic Chains.
 - 🛸 Also, I'm on [GitLab](https://gitlab.com/sfabricito), but I don't have anything interesting there.
 
-## 🏗️ Portfolio projects
+## 🏗️ Portfolio Projects
 - 🥼 [Rick and Morty Vanilla Single Page Application](https://github.com/sfabricito/rick-and-morty)
