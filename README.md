@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Sfabricito
-- 🚀 Always I try to learn something new or different.
-- 👀 I’m interested, as well as programming, in Startups and Cryptocurrencies.
+- 🚀 Always trying to learn something new or different.
+- 👀 I’m interested in Programming, Startups and Cryptocurrencies.
 - 🌱 Currently, I'm learning the technologies related to front-end development.
 - 🎒 I'm a student of Computation Engineering at [TEC](https://www.tec.ac.cr/).
 - 📫 Follow me on [Twitter](https://twitter.com/sfabricito). I'm trying to develop my portfolio and share my experience in the process.
@@ -9,3 +9,4 @@
 
 ## 🏗️ Portfolio Projects
 - 🥼 [Rick and Morty Vanilla Single Page Application](https://github.com/sfabricito/rick-and-morty)
+- 📋 Basic Portfolio (Coming soon...)
