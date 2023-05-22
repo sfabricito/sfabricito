@@ -8,5 +8,5 @@
 - 🛸 Also, I'm on [GitLab](https://gitlab.com/sfabricito), but I don't have anything interesting there.
 
 ## 🏗️ Portfolio Projects
-- 🥼 [Rick and Morty Vanilla Single Page Application](https://github.com/sfabricito/rick-and-morty)
-- 📋 Basic Portfolio (Coming soon...)
+- 🥼 [Rick and Morty Characters (Vanilla Single Page Application)](https://github.com/sfabricito/rick-and-morty)
+- 📋 Basic Portfolio (Landing Page) (Coming soon...)
